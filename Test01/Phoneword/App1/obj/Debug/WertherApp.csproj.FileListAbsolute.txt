@@ -1,0 +1,16 @@
+F:\GitHub\Test01\Phoneword\App1\bin\Debug\App1.dll
+F:\GitHub\Test01\Phoneword\App1\bin\Debug\App1.pdb
+F:\GitHub\Test01\Phoneword\App1\bin\Debug\App1.App1.apk
+F:\GitHub\Test01\Phoneword\App1\bin\Debug\App1.App1-Signed.apk
+F:\GitHub\Test01\Phoneword\App1\bin\Debug\Newtonsoft.Json.dll
+F:\GitHub\Test01\Phoneword\App1\bin\Debug\Newtonsoft.Json.xml
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\App1.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\App1.pdb
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\android\bin\App1.App1.apk
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\res\layout\main.xml
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\res\values\strings.xml
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\res\drawable\icon.png
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\R.cs.flag
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\uploadflags.txt
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\App1.dll.mdb
+F:\GitHub\Test01\Phoneword\App1\bin\Debug\App1.dll.mdb

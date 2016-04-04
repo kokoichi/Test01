@@ -1,0 +1,9 @@
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\assemblies\Phoneword_Droid.dll
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\assemblies\Mono.Android.dll
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\assemblies\mscorlib.dll
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\assemblies\System.Core.dll
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\assemblies\System.dll
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\assemblies\System.Xml.dll
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\assemblies\System.Xml.Linq.dll
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\assemblies\System.Runtime.Serialization.dll
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\assemblies\System.ServiceModel.Internals.dll

@@ -1,0 +1,12 @@
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\App1.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\Microsoft.CSharp.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\Mono.Android.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\mscorlib.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\Newtonsoft.Json.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\System.Core.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\System.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\System.Xml.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\System.Xml.Linq.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\Mono.CSharp.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\System.Runtime.Serialization.dll
+F:\GitHub\Test01\Phoneword\App1\obj\Debug\assemblies\System.ServiceModel.Internals.dll

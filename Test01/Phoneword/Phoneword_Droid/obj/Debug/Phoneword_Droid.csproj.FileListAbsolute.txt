@@ -1,0 +1,14 @@
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\bin\Debug\Phoneword_Droid.dll
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\bin\Debug\Phoneword_Droid.pdb
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\bin\Debug\Phoneword_Droid.Phoneword_Droid.apk
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\bin\Debug\Phoneword_Droid.Phoneword_Droid-Signed.apk
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\Phoneword_Droid.dll
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\Phoneword_Droid.pdb
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\android\bin\Phoneword_Droid.Phoneword_Droid.apk
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\res\layout\main.xml
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\res\values\strings.xml
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\res\drawable\icon.png
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\R.cs.flag
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\uploadflags.txt
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\obj\Debug\Phoneword_Droid.dll.mdb
+F:\GitHub\Test01\Phoneword\Phoneword_Droid\bin\Debug\Phoneword_Droid.dll.mdb
